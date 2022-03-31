@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 🤔 I’m just a Data Analyst!
+### About me: 
+:globe_with_meridians: https://zinpaingoo.me/
+
+### Contact me:
+:computer: https://www.linkedin.com/in/zin-paing-oo-78221a232/
+
 <!--
 **zzz-gh/zzz-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
