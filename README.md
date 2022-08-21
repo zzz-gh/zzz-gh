@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🤔 I’m just a Data Analyst!
+### 🤔 I’m just a Data Engineer!
 ### About me: 
 :globe_with_meridians: https://zinpaingoo.me/
 
