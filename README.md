@@ -2,7 +2,7 @@
 
 ### 🤔 I’m just a Data Engineer!
 ### About me: 
-:globe_with_meridians: https://zinpaingoo.me/
+:globe_with_meridians: https://zinpaingoo.tech/
 
 ### Contact me:
 <a href="https://www.linkedin.com/in/min-thura-z-8929b8132/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" ></a>
