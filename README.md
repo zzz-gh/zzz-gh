@@ -5,7 +5,7 @@
 :globe_with_meridians: https://zinpaingoo.tech/
 
 ### Contact me:
-<a href="https://www.linkedin.com/in/min-thura-z-8929b8132/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" ></a>
+<a href="https://www.linkedin.com/in/zin-paing-oo-78221a232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" ></a>
 
 <!--
 **zzz-gh/zzz-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
